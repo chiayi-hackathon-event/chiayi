@@ -2,6 +2,7 @@
 # 組別 : 交通觀光
 # 名稱 : 我愛回嘉到處跑
 # 作品採用 App 方式
+# 作品原始碼 : STCApp.zip
 # 使用 Opendata :
 # (1)嘉義市觀光景點及店家 : http://data.gov.tw/node/14227
 # (2)高鐵時刻表 : http://data.gov.tw/node/7080 
