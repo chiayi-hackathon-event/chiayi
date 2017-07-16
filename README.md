@@ -1,4 +1,4 @@
-# chiayi
+# 2017 CHIAYI HACKATHON
 # 組別 : 交通觀光
 # 名稱 : 我愛回家到處跑
 # 作品採用 App 方式
